@@ -7,10 +7,10 @@ import { useNavigate } from 'react-router-dom';
 const { Header, Content } = Layout;
 
 const items = [
-    // {
-    //     label:"Home",
-    //     key:"/home"
-    // },
+    {
+        label:"Home",
+        key:"/"
+    },
     // {
     //     label:"Counter",
     //     key:"/counter"

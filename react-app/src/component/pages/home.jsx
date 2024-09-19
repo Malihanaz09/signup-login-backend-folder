@@ -1,13 +1,14 @@
 // import React from 'react'
 
-import AppLayout from "../layout";
+// import AppLayout from "../layout";
 
 function Home() {
   return (
     <div>
-       <AppLayout>
-       <h1>Home Page</h1>
-       </AppLayout>
+
+
+    <h1> Home </h1>
+    <h2>My name is Maliha naz</h2>
       
     </div>
   )
